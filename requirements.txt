@@ -1,0 +1,6 @@
+notebook==7.6.2
+numpy==2.4.6          # última versión de NumPy compatible con Python 3.11
+pandas==3.0.5          # última estable (pandas 3.x); ver nota abajo
+scikit-learn==1.9.1
+joblib==1.6.0
+streamlit==1.59.2
